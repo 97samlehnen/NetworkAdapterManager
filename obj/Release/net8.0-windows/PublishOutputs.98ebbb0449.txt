@@ -1,0 +1,5 @@
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\publish\NetworkAdapterManager.exe
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\publish\NetworkAdapterManager.dll
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\publish\NetworkAdapterManager.deps.json
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\publish\NetworkAdapterManager.runtimeconfig.json
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\publish\NetworkAdapterManager.pdb

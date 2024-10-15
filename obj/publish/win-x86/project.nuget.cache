@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNebEg9q3Hs=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\U23551\\source\\repos\\NetworkAdapterManager\\NetworkAdapterManager\\NetworkAdapterManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.NET.ILLink.Tasks (>= 8.0.6)\" kann für \"net8.0-windows7.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: Microsoft Visual Studio Offline Packages, Package source, Package source 1.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.NET.ILLink.Tasks (>= 8.0.6)\" kann für \"net8.0-windows7.0/win-x86\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: Microsoft Visual Studio Offline Packages, Package source, Package source 1.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0-windows7.0/win-x86"
+      ]
+    }
+  ]
+}

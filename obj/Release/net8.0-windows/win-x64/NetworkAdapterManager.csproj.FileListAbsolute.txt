@@ -1,0 +1,17 @@
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\win-x64\NetworkAdapterManager.exe
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\win-x64\NetworkAdapterManager.deps.json
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\win-x64\NetworkAdapterManager.runtimeconfig.json
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\win-x64\NetworkAdapterManager.dll
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\bin\Release\net8.0-windows\win-x64\NetworkAdapterManager.pdb
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.MainForm.resources
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.Program.resources
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.csproj.GenerateResource.cache
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.AssemblyInfoInputs.cache
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.AssemblyInfo.cs
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.csproj.CoreCompileInputs.cache
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.dll
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\refint\NetworkAdapterManager.dll
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.pdb
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\NetworkAdapterManager.genruntimeconfig.cache
+C:\Users\U23551\source\repos\NetworkAdapterManager\NetworkAdapterManager\obj\Release\net8.0-windows\win-x64\ref\NetworkAdapterManager.dll
